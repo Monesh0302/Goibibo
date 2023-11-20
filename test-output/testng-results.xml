@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-20T19:37:25 IST" name="Default suite" finished-at="2023-11-20T19:39:14 IST" duration-ms="109010">
+    <groups>
+    </groups>
+    <test started-at="2023-11-20T19:37:25 IST" name="Default test" finished-at="2023-11-20T19:39:14 IST" duration-ms="109010">
+      <class name="Goibibo_Runner.Runner">
+        <test-method is-config="true" signature="browser_launch()[pri:0, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:36:39 IST" name="browser_launch" finished-at="2023-11-20T19:37:25 IST" duration-ms="45405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method is-config="true" signature="URL()[pri:0, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:37:25 IST" name="URL" finished-at="2023-11-20T19:37:33 IST" duration-ms="7784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method signature="close_Popup()[pri:1, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:37:35 IST" name="close_Popup" finished-at="2023-11-20T19:37:36 IST" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Popup -->
+        <test-method signature="login_Button()[pri:2, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:37:36 IST" name="login_Button" finished-at="2023-11-20T19:37:37 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Button -->
+        <test-method signature="phone_Num()[pri:3, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:37:37 IST" name="phone_Num" finished-at="2023-11-20T19:37:41 IST" duration-ms="4349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_Num -->
+        <test-method signature="edit_Phno()[pri:4, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:37:41 IST" name="edit_Phno" finished-at="2023-11-20T19:37:43 IST" duration-ms="2149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_Phno -->
+        <test-method signature="phone_Num1()[pri:5, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:37:43 IST" name="phone_Num1" finished-at="2023-11-20T19:38:11 IST" duration-ms="27383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_Num1 -->
+        <test-method signature="from_Destination()[pri:6, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:38:11 IST" name="from_Destination" finished-at="2023-11-20T19:38:20 IST" duration-ms="9652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- from_Destination -->
+        <test-method signature="to_Destination()[pri:7, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:38:20 IST" name="to_Destination" finished-at="2023-11-20T19:38:26 IST" duration-ms="6304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- to_Destination -->
+        <test-method signature="departure_Date()[pri:8, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:38:26 IST" name="departure_Date" finished-at="2023-11-20T19:38:36 IST" duration-ms="9484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- departure_Date -->
+        <test-method signature="travel_Class()[pri:9, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:38:36 IST" name="travel_Class" finished-at="2023-11-20T19:38:59 IST" duration-ms="23191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travel_Class -->
+        <test-method signature="sign_Out()[pri:10, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:38:59 IST" name="sign_Out" finished-at="2023-11-20T19:39:14 IST" duration-ms="14616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_Out -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Goibibo_Runner.Runner@5e3f861]" started-at="2023-11-20T19:39:15 IST" name="close" finished-at="2023-11-20T19:39:19 IST" duration-ms="4047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Goibibo_Runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
